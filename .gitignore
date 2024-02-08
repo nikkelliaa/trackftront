@@ -1,0 +1,5 @@
+touch .gitignore
+
+.idea/
+node_modules/
+tailwind.config.js
